@@ -1,5 +1,7 @@
 import React from "react"
 // import { Link } from "gatsby"
+import "bootstrap/dist/css/bootstrap.min.css"
+
 import { Jumbotron, Container } from "react-bootstrap"
 
 import Links from "../components/links"
